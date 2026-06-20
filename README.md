@@ -1,4 +1,4 @@
-# E-Card-Generator
+# Digi-Id: Digital Identity Management
 
 ### Overview
 
